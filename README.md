@@ -20,4 +20,4 @@
 
 ### Fork Repo Then click on below button of ur fork repo.  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?temlate=https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpensil1141%2FCompressorBot-%2Fblob%2Fmain%2FREADME.md&template=https%3A%2F%2Fgithub.com%2Fpensil1141%2FCompressorBot-%2Fblob%2Fmain%2FREADME.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?temlate=https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpensil1141%2FCompressorBot-&template=https%3A%2F%2Fgithub.com%2Fpensil1141%2FCompressorBot-)
